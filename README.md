@@ -5,7 +5,7 @@ Mongoose Timestamps Plugin
 [![Dependency Status](https://david-dm.org/drudge/mongoose-timestamp.svg)](https://david-dm.org/drudge/mongoose-timestamp)
 [![devDependency Status](https://david-dm.org/drudge/mongoose-timestamp/dev-status.svg)](https://david-dm.org/drudge/mongoose-timestamp#info=devDependencies)
 [![Downloads Monthly](https://img.shields.io/npm/dm/mongoose-timestamp.svg)](https://www.npmjs.com/package/mongoose-timestamp)
-[![Downloads Total](https://img.shields.io/npm/dt/mongoose-timestamp.svg)](https://www.npmjs.com/package/mongoose-timestamp) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/drudge--mongoose-timestamp.svg)](https://www.staging.guardrails.io)
+[![Downloads Total](https://img.shields.io/npm/dt/mongoose-timestamp.svg)](https://www.npmjs.com/package/mongoose-timestamp) [![GuardRails Staging badge](https://badges.staging.guardrails.io/fictional-tribble/drudge--mongoose-timestamp.svg)](https://www.staging.guardrails.io) [![GuardRails badge](https://badges.production.guardrails.io/fictional-tribble/drudge--mongoose-timestamp.svg)](https://www.guardrails.io)
 
 Simple plugin for [Mongoose](https://github.com/LearnBoost/mongoose) which adds `createdAt` and `updatedAt` date attributes
 that get auto-assigned to the most recent create/update timestamp.
